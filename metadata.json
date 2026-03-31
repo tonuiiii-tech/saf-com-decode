@@ -1,0 +1,5 @@
+{
+  "name": "Mkulima AI Chatbot",
+  "description": "A Kiswahili-first AI chatbot for farmers providing agricultural advice, pest troubleshooting, and market prices via app and USSD.",
+  "requestFramePermissions": ["microphone"]
+}
